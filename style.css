@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+.ma{
+    width: 100px;
+}
+h1{
+    width: 100%;
+    text-align: center;
+    background-color: rgb(78, 78, 78);
+    color: rgb(0, 0, 0);
+    }
+h1{
+    width: 500;
+}
+.md{
+    width: 300px;
+}
+.ml{
+    width: 250px;
+}
+.mj{
+    width: 250px;
+}
+a{
+    color: rgb(1, 31, 10);
+}
+.imgs{
+    display: flex;
+    height: 200px;
+    margin: 10px;
+}
+
+p{
+    height: 40px;
+    background-color: rgb(31, 216, 14);
+}
+
+p{
+    height: 50;
+    background-color: rgb(78, 78, 78);
+}
